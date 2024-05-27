@@ -1,25 +1,27 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Javier Alfaro! 👋
 
 I'm a junior developer passionate about learning and building innovative projects. Welcome to my GitHub profile!
 
 ## 🌱 I’m currently learning:
-- **Java** and **JavaFX** for desktop applications
-- **Web development** with **HTML**, **CSS**, and **JavaScript**
-- **Version control** with **Git** and **GitHub**
+- **Backend development** with **Python**
 
 ## 🔧 Technologies & Tools:
-- ![#007396](https://via.placeholder.com/15/007396/000000?text=+) `Java` | ![#0176FF](https://via.placeholder.com/15/0176FF/000000?text=+) `JavaFX` | ![#FFC300](https://via.placeholder.com/15/FFC300/000000?text=+) `Swing`
-- ![#E34F26](https://via.placeholder.com/15/E34F26/000000?text=+) `HTML` | ![#1572B6](https://via.placeholder.com/15/1572B6/000000?text=+) `CSS` | ![#F7DF1E](https://via.placeholder.com/15/F7DF1E/000000?text=+) `JavaScript`
+- ![#3572A5](https://via.placeholder.com/15/3572A5/000000?text=+) `Python`
 - ![#F05032](https://via.placeholder.com/15/F05032/000000?text=+) `Git` | ![#181717](https://via.placeholder.com/15/181717/000000?text=+) `GitHub`
 
 ## 🚀 Projects:
-### [Student Management System](https://github.com/yourusername/student-management-system)
-A desktop application for managing student records, course enrollments, and grades. Built with Java Swing.
 
-### [Your Other Project](https://github.com/yourusername/your-other-project)
-A brief description of another project you're working on.
 
 ## 📫 How to reach me:
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **LinkedIn:** [Javier Alfaro](https://www.linkedin.com/in/if-javier-alfaro/)
+
+## 🎓 Education:
+- Pursuing a career in Computer Science at the University of the People
+- Taking free courses on Harvard and Coursera
+
+## 💼 Professional Experience:
+- **IT Support Specialist:** 2 years of experience in the IT field
+
+## 🚀 Career Goals:
+- Aspiring backend developer, learning independently using open-source books and free courses
 
